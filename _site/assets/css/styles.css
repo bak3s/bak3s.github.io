@@ -1,0 +1,8 @@
+a:link,
+a:visited,
+a:hover {
+  color: #06c; }
+  a:link.selected,
+  a:visited.selected,
+  a:hover.selected {
+    color: #000; }
