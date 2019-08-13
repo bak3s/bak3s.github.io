@@ -1,6 +1,7 @@
 manifest_name: Dan's Gems
 manifest_short_name: Dan's Gems
 manifest_lang: en
-manifest_background_color: white
+manifest_background_color: #FFFFFF
+manifest_theme_color: #FFFFFF
 manifest_short_name:
 manifest_display: standalone

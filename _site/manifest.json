@@ -1,6 +1,7 @@
 {
   "lang": "en",
-  "background_color": "#white",
+  "background_color": "#",
+  "theme_color": "#",
   "name": "Dan's Gems",
   "short_name": "",
   "display": "standalone",
