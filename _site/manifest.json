@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "background_color": "#white",
+  "name": "Dan's Gems",
+  "short_name": "",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/144X144-icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
