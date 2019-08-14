@@ -4,20 +4,17 @@
         <meta charset="utf-8"/>
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <title>{{ page.title }}</title>
-        <meta name="description" content="{{ page.description }}">
-
+        
         <link href="/assets/css/styles.css" rel="stylesheet">
         <link rel="manifest" href="{{ site.url }}/manifest.json">
+        <script src="/assets/js/app.js"></script>
+
+        {% seo %}
     </head>
-    <body>
+    <body class="{{ page.class }}">
         <div class="container">
             {% include header.html %}
-            {% include navigation.html %}
-            <main>
-                {{ content }}
-            </main>
+            {{ content }}
         </div>
     </body>
 </html>
