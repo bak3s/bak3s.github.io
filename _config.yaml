@@ -4,7 +4,6 @@ manifest_lang: en
 manifest_background_color: FFFFFF
 manifest_theme_color: FFFFFF
 manifest_display: standalone
-
 pwa:
   # sw_src_filepath: service-worker.js # Optional
   # sw_dest_filename: service-worker.js # Optional
@@ -17,3 +16,4 @@ pwa:
   precache_glob_ignores: # Optional
     - sw-register.js
     # - "fonts/**/*"
+permalink: pretty

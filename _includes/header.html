@@ -6,13 +6,9 @@
     <div class="logo">Dan's Gems</div>
     <nav id="navigation">
         <ul>
-            {% for item in site.data.navigation %}
-                <li>
-                    <a href="{{ item.link }}" {% if page.url == item.link %} class="selected" {% endif %}>
-                        {{ item.name }}
-                    </a>
-                </li>
-            {% endfor %}
+            <li><a href="/">Home</a></li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/blog/">Blog</a></li>
         </ul>
     </nav>
 </header>

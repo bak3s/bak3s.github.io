@@ -1,7 +1,7 @@
 importScripts("/assets/js/workbox-v5.0.0.alpha1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v5.0.0.alpha1"});
 
-self.__precacheManifest = [{"url":"/index.html","revision":"4c7d21b0f35a80481353f9a84d9e2864"}];
+self.__precacheManifest = [{"url":"/index.html","revision":"f2d6758ffef18183ff8642216ed573a9"}];
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
