@@ -1,17 +1,17 @@
-manifest_name: Dan's Gems
-manifest_short_name: Dan's Gems
+manifest_name: Catching FI/RE
+manifest_short_name: Catching FI/RE
 manifest_lang: en
 manifest_background_color: FFFFFF
 manifest_theme_color: FFFFFF
 manifest_display: standalone
 pwa:
-  # sw_src_filepath: service-worker.js # Optional
-  # sw_dest_filename: service-worker.js # Optional
+  sw_src_filepath: service-worker.js # Optional
+  sw_dest_filename: service-worker.js # Optional
   dest_js_directory: assets/js # Required
   precache_recent_posts_num: 5 # Optional
   precache_glob_directory: / # Optional
   precache_glob_patterns: # Optional
-    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - '{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}'
     - index.html
   precache_glob_ignores: # Optional
     - sw-register.js
