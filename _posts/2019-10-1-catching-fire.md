@@ -16,19 +16,19 @@ After fitting my first \$10k in savings (a huge milestone after which I told mys
 
 I started to read books on investing - like One Up on Wall Street and From 0-130 properties, and decided property would be where I stash my money.
 
-This didn’t end up going to plan, a random call from my mate changed my financial direction. Instead of spending 30k on a house deposit for a small apartment in Marrickville was spent on a trip to Canada, where I lived and worked for over a year.
+This didn’t end up going to plan, a random call from my mate changed my life. Instead of spending 30k on a house deposit for a small apartment in Marrickville was spent on a trip to Canada, where I lived and worked for over a year.
 
-Now when this opportunity presented itself I said “no worry, when I return I’ll save for another deposit... property won’t go up that much in a year...” queue property boom in Sydney... where my near buy of a 350k property in Marrickville was now 750k.
+Now when this opportunity presented itself I said “no worry, when I return I’ll save for another deposit... property won’t go up that much in a year...” queue property boom in Sydney... where my near buy of a 350k property in Marrickville, I would now be looking at 750k.
 
-So rather than saving again upon return... another call from another mate, and 12 months later I moved to London for a year.
+So rather than saving again upon return... another call from another mate, and 12 months later I moved to London.
 
-After my year in London I returned to Sydney, no money, no savings, no job, back to square one. Time to build it all back up... a third time. Except this time... not answering any more of those calls from my mates!
+A year later I returned to Sydney, no money, no savings, no job, back to square one. Time to build it all back up... a third time. Except this time... not answering any more of those calls from my mates!
 
-Now a few things have happened since then... I purchased an investment property, married my wife, had an amazing honeymoon and now have a son... the last 3 all within 12 months.
+Now a few things have happened since then, I purchased an investment property, married my wife, had an amazing honeymoon and now have a son... the last 3 all within 12 months.
 
 In the weeks after my son was born I had some time to look at our finances, work out how much we are spending, and what the next 5 years will look like... where do we want to live, what school will we send our son to? All questions and no answers...
 
-Over those 6 weeks I did a few things... mainly read [The Barefoot Investor](https://barefootinvestor.com/), and decide to follow that plan to knock over our debts (around 10k left over after the wedding and honeymoon).
+Over those 6 weeks I did a few things, I took the learnings from [The Barefoot Investor](https://barefootinvestor.com/), and decide to follow that plan to knock over our debts (around 10k left over after the wedding and honeymoon), and start making our money work for us.
 
 ## The Barefoot Investor
 
