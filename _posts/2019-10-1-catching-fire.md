@@ -1,15 +1,14 @@
 ---
 layout: post
 author: dan
+categories: [fire]
 ---
 
-#FIRE
+The [FI/RE movement]({% post_url 2019-10-1-what-is-the-fire-movement %}) is quickly gaining moment in Australia, and its what I have been looking for for quite some time.
 
 This website will be documenting my journey to financial independence.
 
-The FI/RE movement is quickly gaining moment in Australia, and its what I have been looking for for quite some time.
-
-##Preamble...
+## Preamble...
 
 10 years ago I began working full time and had no plans, no insight, no guidance on what I should do with my money. For me just saving for a rainy day was all I could muster.
 
@@ -29,9 +28,9 @@ Now a few things have happened since then... I purchased an investment property,
 
 In the weeks after my son was born I had some time to look at our finances, work out how much we are spending, and what the next 5 years will look like... where do we want to live, what school will we send our son to? All questions and no answers...
 
-Over those 6 weeks I did a few things... mainly read The Barefoot Investor, and decide to follow that plan to knock over our debts (around 10k left over after the wedding and honeymoon).
+Over those 6 weeks I did a few things... mainly read [The Barefoot Investor](https://barefootinvestor.com/), and decide to follow that plan to knock over our debts (around 10k left over after the wedding and honeymoon).
 
-##The Barefoot Investor
+## The Barefoot Investor
 
 This book did a few things for me...
 
@@ -44,6 +43,4 @@ This book did a few things for me...
 7. Get a better deal for our home loan
 8. Get a better deal for our personal loan
 
-After this I decided to invest in [The Barefoot Blueprint][1], as I was interested in shares again.
-
-[1]: https://barefootinvestor.com/
+After this I decided to invest in The Barefoot Blueprint, as I was interested in shares again.
