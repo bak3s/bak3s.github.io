@@ -1,1 +1,20 @@
-"serviceWorker"in navigator&&navigator.serviceWorker.register("/assets/js/service-worker.js?v=1572325560").then(function(e){e.onupdatefound=function(){var t=e.installing;t.onstatechange=function(){switch(t.state){case"installed":if(navigator.serviceWorker.controller){var e=document.createEvent("Event");e.initEvent("sw.update",!0,!0),window.dispatchEvent(e)}}}}}).catch(function(e){console.error("Error during service worker registration:",e)});
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/assets/js/service-worker.js?v=1572327194').then(function(reg) {
+                reg.onupdatefound = function() {
+                    var installingWorker = reg.installing;
+                    installingWorker.onstatechange = function() {
+                        switch (installingWorker.state) {
+                            case 'installed':
+                                if (navigator.serviceWorker.controller) {
+                                    var event = document.createEvent('Event');
+                                    event.initEvent('sw.update', true, true);
+                                    window.dispatchEvent(event);
+                                }
+                                break;
+                        }
+                    };
+                };
+            }).catch(function(e) {
+                console.error('Error during service worker registration:', e);
+            });
+        }

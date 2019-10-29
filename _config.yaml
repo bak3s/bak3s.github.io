@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-pwa-plugin
+permalink: /:categories/:title/
 manifest_name: Catching FI/RE
 manifest_short_name: Catching FI/RE
 manifest_lang: en
@@ -15,5 +18,4 @@ pwa:
     - index.html
   precache_glob_ignores: # Optional
     - sw-register.js
-    # - "fonts/**/*"
-permalink: /:categories/:title/
+    - "fonts/**/*"

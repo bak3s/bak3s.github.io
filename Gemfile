@@ -9,7 +9,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "jekyll"
 
 group :jekyll_plugins do
-  gem "jekyll-pwa-workbox", "~> 0.0.7.alpha"
+  gem "jekyll-pwa-plugin"
   gem "github-pages"
   gem "jekyll-timeago"
   gem "jekyll-seo-tag"
