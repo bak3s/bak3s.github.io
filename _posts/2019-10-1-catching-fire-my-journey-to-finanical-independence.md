@@ -1,12 +1,11 @@
 ---
 layout: post
+title: Catching Fire, A blog about my journey to financial independence
 author: dan
 categories: [fire]
 ---
 
-The [FI/RE movement]({% post_url 2019-10-1-what-is-the-fire-movement %}) is quickly gaining moment in Australia, and its what I have been looking for for quite some time.
-
-This website will be documenting my journey to financial independence.
+<p class="intro">The FI/RE movement is quickly gaining moment in Australia, and this website will be documenting my journey to financial independence.</p>
 
 ## Preamble...
 
@@ -47,6 +46,6 @@ After this I decided to invest in The Barefoot Blueprint, as I was interested in
 
 This is where I delve deep into dividends, compound interest and ultimately financial independence through a passive income stream.
 
-Right now, I am beginning my journey into the fire movement, with an aim to be able to "retire" at 40.
+Right now, I am beginning my journey into the [FI/RE movement]({% post_url 2019-10-1-what-is-the-fire-movement %}), with an aim to be able to "retire" at 40.
 
 :v:

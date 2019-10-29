@@ -1,12 +1,18 @@
 ---
 layout: default
 ---
-
 <article>
-  <h1>{{ page.title | capitalize }}</h1>
-  <time datetime="{{ page.date }}">{{ page.date | timeago | capitalize }}</time>
-  -
-  {{ page.author | capitalize }}
-  {{ page.categories | join: ', ' }}
-  {{ content }}
+    <header>
+        <h1>{{ page.title | capitalize }}</h1>
+
+        <div class="taxonomy">
+            <time class="tag" datetime="{{ page.date }}">{{ page.date | timeago }}</time>
+            {% for category in page.categories %}
+                <span class="tag">{{ category | capitalize }}</span>
+            {% endfor %}
+        </div>
+    </header>
+    <div class="post-content">
+        {{ content }}
+    </div>
 </article>

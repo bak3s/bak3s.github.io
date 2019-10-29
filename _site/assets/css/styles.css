@@ -252,16 +252,22 @@ caption { padding: 1rem 0; caption-side: bottom; color: #ababab; }
 @media (min-width: 600px) { .contain-table { width: 100%; } }
 /** Layout */
 /** Layout */
-header { float: left; width: 100%; }
-header .logo { font-size: 1.5rem; font-weight: bold; }
-header nav ul { margin: 0; padding: 0; }
-header nav ul li { float: left; display: inline; margin: 0 0.5rem; }
-header nav ul li:first-child { margin-left: 0; }
-header nav ul li a { padding: 0.5rem; display: block; }
+nav .logo { font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.5rem; padding-bottom: 2rem; font-weight: bold; text-align: center; border-bottom: 1px solid #ededed; }
+nav ul { margin: 0; padding: 0; display: flex; justify-content: center; }
+nav ul li { float: left; display: inline; margin: 0 0.5rem; }
+nav ul li:first-child { margin-left: 0; }
+nav ul li a { padding: 0.5rem; display: block; }
+
+p.intro { font-size: 1.5rem; }
+
+.taxonomy { margin-bottom: 2rem; }
+.taxonomy .tag { background: #ededed; border-radius: 3px; padding: 0.25rem 0.5rem; font-size: 0.85rem; }
+.taxonomy time.tag { background: #fafafa; }
 
 main { float: left; width: 100%; }
 
 article { float: left; width: 100%; }
+article h1 { margin-bottom: 0.5rem; }
 
 .blog ul { padding: 0; margin: 0; list-style: none; }
 
