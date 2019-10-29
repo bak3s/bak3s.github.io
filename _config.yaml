@@ -5,9 +5,9 @@ manifest_background_color: FFFFFF
 manifest_theme_color: FFFFFF
 manifest_display: standalone
 pwa:
-  sw_src_filepath: ./assets/js/service-worker.js # Optional
-  sw_dest_filename: ./assets/js/service-worker.js # Optional
-  dest_js_directory: ./assets/js # Required
+  sw_src_filepath: assets/js/service-worker.js # Optional
+  sw_dest_filename: assets/js/service-worker.js # Optional
+  dest_js_directory: assets/js # Required
   precache_recent_posts_num: 5 # Optional
   precache_glob_directory: / # Optional
   precache_glob_patterns: # Optional

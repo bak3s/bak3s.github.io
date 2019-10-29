@@ -8,6 +8,8 @@ The [FI/RE movement]({% post_url 2019-10-1-what-is-the-fire-movement %}) is quic
 
 This website will be documenting my journey to financial independence.
 
+Read this in about {{ page.content | reading_time }}
+
 ## Preamble...
 
 10 years ago I began working full time and had no plans, no insight, no guidance on what I should do with my money. For me just saving for a rainy day was all I could muster.
