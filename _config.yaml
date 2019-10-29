@@ -1,3 +1,9 @@
+plugins:
+  - jekyll-pwa-plugin
+  - github-pages
+  - jekyll-timeago
+  - jekyll-seo-tag
+  - jemoji
 permalink: /:categories/:title/
 manifest_name: Catching FI/RE
 manifest_short_name: Catching FI/RE
