@@ -4,6 +4,8 @@ layout: default
 
 <article>
     <h1>{{ page.title | capitalize }}</h1>
-    <time datetime="{{ page.date }}">{{ page.date | timeago | capitalize }}</time> - {{ page.author | capitalize }}</p>
+    <time datetime="{{ page.date }}">{{ page.date | timeago | capitalize }}</time>
+    -
+    {{ page.author | capitalize }}
     {{ content }}
 </article>
