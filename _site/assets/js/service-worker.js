@@ -1,7 +1,7 @@
                         importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
             workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
-            self.__precacheManifest = [{"url":"/index.html","revision":"04c8bea8971f2e424d8e7d160ea07db5"},{"url":"/fire/what-is-the-fire-movement/","revision":"c7ec835631443435d44e31358dfd06ee"},{"url":"/fire/catching-fire/","revision":"c48ed483dc20c4b804d73493345117d6"}];
+            self.__precacheManifest = [{"url":"/index.html","revision":"0085d0b0eae628a5fb4ffb13b7b58735"},{"url":"/fire/what-is-the-fire-movement/","revision":"c7ec835631443435d44e31358dfd06ee"},{"url":"/fire/catching-fire/","revision":"56455018f16cdfd196a0f89767ca5d1f"}];
             // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: "catching-fire",

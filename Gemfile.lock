@@ -252,6 +252,7 @@ DEPENDENCIES
   jekyll-pwa-plugin
   jekyll-seo-tag
   jekyll-timeago
+  jemoji
 
 BUNDLED WITH
    2.0.2

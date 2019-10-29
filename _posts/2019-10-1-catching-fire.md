@@ -48,3 +48,5 @@ After this I decided to invest in The Barefoot Blueprint, as I was interested in
 This is where I delve deep into dividends, compound interest and ultimately financial independence through a passive income stream.
 
 Right now, I am beginning my journey into the fire movement, with an aim to be able to "retire" at 40.
+
+:v:
