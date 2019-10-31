@@ -1,21 +1,14 @@
 require 'HTTParty'
-require 'Nokogiri'
 
-response = HTTParty.get('https://content.spaceship.com.au/data/super/investment/growthx/unit-price.json')
-puts response.body, response.code, response.message, response.headers.inspect
+response = HTTParty.get('https://content.spaceship.com.au/data/super/investment/global-index/unit-price.json')
 
-# class Scraper
-#     attr_accessor :parse
-#     def initialize
-#         doc = HTTParty.get('https://www.spaceship.com.au/products/super/growthx/performance')
-#         @parse ||= Nokogiri::HTML(doc)
-#     end
+def get_unit(data)
+    unit = Array.new
+    unit << data[-1]["Buy Price"]
+    unit << data[-1]["Unit Price Date"]
+    return unit
+end
 
-#     def get_units
-#         units = parse.css("dollar").map { |unit| unit.text }.compact
-#     end
+get_unit(response)
 
-#     puts units
-# end
-
-# https://content.spaceship.com.au/data/super/investment/unit-price.json
+# https://content.spaceship.com.au/data/super/investment/growthx/unit-price.json
