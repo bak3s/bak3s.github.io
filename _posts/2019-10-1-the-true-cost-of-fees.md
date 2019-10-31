@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should I sell my property?
+title: The true cost of fees
 author: dan
 categories: [property]
 ---

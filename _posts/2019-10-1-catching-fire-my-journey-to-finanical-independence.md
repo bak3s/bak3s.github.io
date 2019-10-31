@@ -27,7 +27,7 @@ Now a few things have happened since then, I purchased an investment property, m
 
 In the weeks after my son was born I had some time to look at our finances, work out how much we are spending, and what the next 5 years will look like... where do we want to live, what school will we send our son to? All questions and no answers...
 
-Over those 6 weeks I did a few things, I took the [learnings from The Barefoot Investor](https://barefootinvestor.com/), and decide to follow that plan to knock over our debts (around 10k left over after the wedding and honeymoon), and start making our money work for us.
+Over those 6 weeks I did a few things, I took the [learnings from The Barefoot Investor]({% post_url 2019-10-1-learnings-from-the-barefoot-investor %}), and decide to follow that plan to knock over our debts (around 10k left over after the wedding and honeymoon), and start making our money work for us.
 
 After this I decided to invest in The Barefoot Blueprint, as I was interested in shares again.
 

@@ -1,7 +1,7 @@
                         importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
             workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
-            self.__precacheManifest = [{"url":"/index.html","revision":"2c0a8060c19bd463446e8d78bfc74bdc"},{"url":"/fire/what-is-the-fire-movement/","revision":"c7ec835631443435d44e31358dfd06ee"},{"url":"/fire/catching-fire-my-journey-to-finanical-independence/","revision":"088f599354b772a371a80ca770edef15"}];
+            self.__precacheManifest = [{"url":"/index.html","revision":"9270a8a4624f3b8f44ed2b127436edec"},{"url":"/fire/what-is-the-fire-movement/","revision":"573d8d657c4000a48f66090c2efccc80"},{"url":"/property/the-true-cost-of-fees/","revision":"5d8d539bf955bf43b4d3a7fb9aff7554"},{"url":"/property/should-i-sell-my-property/","revision":"291b319619ea7a6ee8ea2b4537c03aa0"},{"url":"/financial%20planning/books/my-experience-with-a-financial-planner/","revision":"a015a3ff31bef78682390645a300bd64"},{"url":"/investing/books/learnings-from-the-barefoot-investor/","revision":"0492f886474c608988f763a743a45b0e"}];
             // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: "catching-fire",
