@@ -17,4 +17,4 @@ categories: [investing, books]
 - Knock off our credit cards (from 3 down to 1)
 - Get a better deal for our home loan
 - Get a better deal for our personal loan
-- [Fee erosion]({% post_url 2019-10-1-the-true-cost-of-fees %})
+- [Fee erosion]({% post_url 2019-10-01-the-true-cost-of-fees %})
