@@ -3,6 +3,9 @@ plugins:
   - github-pages
   - jekyll-seo-tag
   - jemoji
+jekyll_get:
+  data: unit
+  json: "https://content.spaceship.com.au/data/super/investment/global-index/unit-price.json"
 permalink: /:categories/:title/
 manifest_name: Catching Fire
 manifest_short_name: Catching Fire
