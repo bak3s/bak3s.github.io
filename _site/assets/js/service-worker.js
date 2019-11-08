@@ -1,7 +1,7 @@
                         importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
             workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
-            self.__precacheManifest = [{"url":"/index.html","revision":"18426aaa1839b0ceca854cb0cafc2727"},{"url":"/fire/catching-fire-my-journey-to-finanical-independence/","revision":"eb11a3962ab16ce2b15b8d2225402b61"},{"url":"/fire/what-is-the-fire-movement/","revision":"573d8d657c4000a48f66090c2efccc80"},{"url":"/property/the-true-cost-of-fees/","revision":"5d8d539bf955bf43b4d3a7fb9aff7554"},{"url":"/investing/books/learnings-from-the-barefoot-investor/","revision":"458dbd670236851dac0ec594e650ba0e"}];
+            self.__precacheManifest = [{"url":"/index.html","revision":"911a1e668b3ac7ef8e5bf34a30d95a57"},{"url":"/fire/catching-fire-my-journey-to-finanical-independence/","revision":"eb11a3962ab16ce2b15b8d2225402b61"},{"url":"/fire/what-is-the-fire-movement/","revision":"573d8d657c4000a48f66090c2efccc80"},{"url":"/property/the-true-cost-of-fees/","revision":"5d8d539bf955bf43b4d3a7fb9aff7554"},{"url":"/investing/books/learnings-from-the-barefoot-investor/","revision":"458dbd670236851dac0ec594e650ba0e"}];
             // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: "catching-fire",
