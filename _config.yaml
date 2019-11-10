@@ -3,9 +3,6 @@ plugins:
   - github-pages
   - jekyll-seo-tag
   - jemoji
-jekyll_get:
-  data: unit
-  json: "https://content.spaceship.com.au/data/super/investment/global-index/unit-price.json"
 permalink: /:categories/:title/
 manifest_name: Catching Fire
 manifest_short_name: Catching Fire
@@ -20,8 +17,8 @@ pwa:
   precache_recent_posts_num: 5 # Optional
   precache_glob_directory: / # Optional
   precache_glob_patterns: # Optional
-    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - '{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}'
     - index.html
   precache_glob_ignores: # Optional
     - sw-register.js
-    - "fonts/**/*"
+    - 'fonts/**/*'

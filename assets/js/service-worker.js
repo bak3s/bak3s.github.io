@@ -1,9 +1,9 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-  prefix: "catching-fire",
-  suffix: "v1",
-  precache: "precache",
-  runtime: "runtime-cache"
+  prefix: 'catching-fire',
+  suffix: 'v1',
+  precache: 'precache',
+  runtime: 'runtime-cache'
 });
 
 // let Service Worker take control of pages ASAP

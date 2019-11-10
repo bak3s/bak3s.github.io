@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8"/>
-        <meta content="ie=edge" http-equiv="x-ua-compatible"/>
-        <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="ie=edge" http-equiv="x-ua-compatible" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
 
-        <link href="{{ site.url }}/assets/css/styles.css" rel="stylesheet"/>
-        <link rel="manifest" href="{{ site.url }}/manifest.json"/>
-        <script src="{{ site.url }}/assets/js/app.js"></script>
+    <link href="{{ site.url }}/assets/css/styles.css" rel="stylesheet" />
+    <link rel="manifest" href="{{ site.url }}/manifest.json" />
+    <script src="{{ site.url }}/assets/js/app.js"></script>
 
-        {% seo %}
-    </head>
-    <body class="{{ page.class }}">
-        <div class="small-container">
-            {% include header.html %}
-            <main>
-                {{ content }}
-            </main>
-        </div>
-    </body>
+    {% seo %}
+  </head>
+  <body class="{{ page.class }}">
+    <div class="small-container">
+      {% include header.html %}
+      <main>
+        {{ content }}
+      </main>
+      <pre>{{ site.data.pokemon | json }}</pre>
+    </div>
+  </body>
 </html>

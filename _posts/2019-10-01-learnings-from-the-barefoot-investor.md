@@ -17,7 +17,7 @@ categories: [investing, books]
 - Knock off our credit cards (from 3 down to 1)
 - Get a better deal for our home loan
 - Get a better deal for our personal loan
-- [Fee erosion]({% post_url 2019-10-01-the-true-cost-of-fees %})
+- Fee erosion
 
 ### Debt... the good and the bad
 
@@ -29,7 +29,7 @@ Bad debt includes credit cards and cars. They say the second you buy a car it ha
 
 Wealth is a strange thing... the biggest thing I have found is the wealthy (the real wealthy) are rarely showy when it comes to possessions... they don’t get rich by spending money poorly.
 
-It’s strange to think that when I was 20 I was earning 1/3 of what I am today, but my lifestyle was pretty similar... so it makes me wonder where all the money goes... Yes Netflix, coffees, lunches out... but really the difference is with more income seems to incur more debt... buying slightly more expensive sunnies, a slightly better car, a slightly bigger apartment, a more expensive laptop, each leap in income comes a leap in comforts.
+It’s strange to think that when I was 20 I was earning 1/3 of what I am today, but my lifestyle was pretty similar... so it makes me wonder where all the money goes... Yes Netflix, coffees, lunches out... but really the difference is with more income seems to incur more debt... buying slightly more expensive sunnies, a slightly better car, a slightly bigger apartment, a more expensive laptop, each leap in income comes a leap in comforts, known as _[lifestyle creep](https://www.forbes.com/sites/camilomaldonado/2018/08/23/slippery-slope-lifestyle-creep/)_.
 
 The Barefoot shows us how this debt builds... marketing, indoctrination, comparison.
 

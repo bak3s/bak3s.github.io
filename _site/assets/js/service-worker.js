@@ -1,13 +1,13 @@
                         importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
             workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
-            self.__precacheManifest = [{"url":"/index.html","revision":"911a1e668b3ac7ef8e5bf34a30d95a57"},{"url":"/fire/catching-fire-my-journey-to-finanical-independence/","revision":"eb11a3962ab16ce2b15b8d2225402b61"},{"url":"/fire/what-is-the-fire-movement/","revision":"573d8d657c4000a48f66090c2efccc80"},{"url":"/property/the-true-cost-of-fees/","revision":"5d8d539bf955bf43b4d3a7fb9aff7554"},{"url":"/investing/books/learnings-from-the-barefoot-investor/","revision":"458dbd670236851dac0ec594e650ba0e"}];
+            self.__precacheManifest = [{"url":"/index.html","revision":"97ed75ce0f8295567a49f430afeb3b38"},{"url":"/fire/catching-fire-my-journey-to-finanical-independence/","revision":"88a5fda8a439acbaf1110cc48434fbd3"},{"url":"/investing/books/learnings-from-the-barefoot-investor/","revision":"5fe96c4a94d4255c71b44d21dbc53f43"}];
             // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-  prefix: "catching-fire",
-  suffix: "v1",
-  precache: "precache",
-  runtime: "runtime-cache"
+  prefix: 'catching-fire',
+  suffix: 'v1',
+  precache: 'precache',
+  runtime: 'runtime-cache'
 });
 
 // let Service Worker take control of pages ASAP
