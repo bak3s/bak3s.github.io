@@ -28,7 +28,10 @@ class: net-worth
           <td>{{ value["cash"] | money }}</td>
           <td>
             <span class="total">{{
-              value["shares"] + value["property"] + value["cash"]
+              value["shares"]
+                | plus: value["property"]
+                | plus: value["cash"]
+                | money
             }}</span>
           </td>
           <td><span class="percent-change"></span></td>
@@ -38,7 +41,7 @@ class: net-worth
     </table>
   </div>
 </div>
-<div class="flex-row">
+<div class="flex-row" style="display:none;">
   <div class="flex-small">
     <canvas height="400" id="networth" width="400"></canvas>
   </div>
@@ -55,9 +58,35 @@ class: net-worth
   let total = document.getElementsByClassName('total');
   let totalArray = [];
   for (const value of total) {
-      totalArray.push(value.innerHTML);
+      totalArray.push(Number(value.innerHTML.replace(/[^0-9\.]+/g, "")));
   }
   console.log(totalArray);
+
+  var lastobj = '';
+  for (const key in totalArray) {
+    // let thisValue = Number(total[key].innerHTML.replace(/[^0-9\.]+/g, ""));
+    // if(lastobj) {
+    //     let lastValue = Number(lastobj.innerHTML.replace(/[^0-9\.]+/g, ""));
+    // }
+
+    console.log(totalArray[key]);
+
+    if(lastobj) {
+        console.log(lastobj);
+    }
+
+    var i = Object.keys(totalArray).indexOf(key);
+
+    let thisValue = totalArray[key];
+    let lastValue = lastobj;
+
+    if (i > 0) {
+        let percentChange = Math.round(100*(thisValue-lastValue) / thisValue * 100)/100;
+        document.getElementsByClassName('percent-change')[i].innerHTML = percentChange;
+    }
+
+    lastobj = totalArray[key]
+  }
 
   var ctx = document.getElementById("networth");
   var data = {
