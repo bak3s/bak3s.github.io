@@ -1,0 +1,81 @@
+---
+layout: default
+title: Net Worth | Catching Fire
+class: net-worth
+---
+
+<h1>Net Worth</h1>
+
+<div class="flex-row">
+  <div class="flex-small">
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Shares</th>
+          <th>Property</th>
+          <th>Cash</th>
+          <th>Total</th>
+          <th>% Change</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for value in site.data.networth %}
+        <tr>
+          <td>{{ value["date"] | date: "%B" }}</td>
+          <td>{{ value["shares"] | money }}</td>
+          <td>{{ value["property"] | money }}</td>
+          <td>{{ value["cash"] | money }}</td>
+          <td>
+            <span class="total">{{
+              value["shares"] + value["property"] + value["cash"]
+            }}</span>
+          </td>
+          <td><span class="percent-change"></span></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="flex-row">
+  <div class="flex-small">
+    <canvas height="400" id="networth" width="400"></canvas>
+  </div>
+</div>
+
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.css"
+  rel="stylesheet"
+/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+
+<script>
+
+  let total = document.getElementsByClassName('total');
+  let totalArray = [];
+  for (const value of total) {
+      totalArray.push(value.innerHTML);
+  }
+  console.log(totalArray);
+
+  var ctx = document.getElementById("networth");
+  var data = {
+      datasets: [{
+            data: [
+            {% for value in site.data.networth %}
+                {{ value["shares"] + value["property"] + value["cash"] }},
+            {% endfor %}
+            ]
+      }],
+
+      labels: [
+        'January',
+        'February',
+      ]
+  };
+  var chart = new Chart(ctx, {
+      type: 'line',
+      data: data
+  });
+</script>

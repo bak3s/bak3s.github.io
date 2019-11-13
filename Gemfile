@@ -14,4 +14,5 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jemoji"
   gem "jekyll-last-modified-at"
+  gem "jekyll-money"
 end
