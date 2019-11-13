@@ -1,3 +1,4 @@
+url: https://catchingfire.com.au
 plugins:
   - jekyll-pwa-plugin
   - github-pages
