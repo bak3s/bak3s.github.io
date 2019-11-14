@@ -1,3 +1,4 @@
+repository: bak3s/bak3s.github.io
 url: https://catchingfire.com.au
 plugins:
   - jekyll-pwa-plugin
