@@ -35,19 +35,33 @@ This is where my first major fork in my life popped up...
 
 ## How to spend \$10,000
 
-My plan to purchase a property in the Inner West didnt go as expected, I instead packed up and left to go overseas and live in Canada for a couple of years.
+My plan to purchase a property in the Inner West didn't go as expected, I instead packed up and left to go overseas and live for a couple of years.
 
-Now when this opportunity presented itself I said “no worry, when I return I’ll save for another deposit... property won’t go up that much in a year...” queue property boom in Sydney... where my near buy of a 350k property in Marrickville, I would now be looking at 750k.
+> It's fairly easy to spend \$10,000 travelling.
 
-So rather than saving again upon return... another call from another mate, and 12 months later I moved to London.
+Now when this opportunity presented itself I said “no worry, when I return I’ll save for another deposit... property won’t go up that much in a year...” queue property boom in Sydney... where my near buy of a 350k property in Marrickville, would now be closer to 750k.
 
-A year later I returned to Sydney, no money, no savings, no job, back to square one. Time to build it all back up... a third time. Except this time... not answering any more of those calls from my mates!
+## Starting over
 
-Now a few things have happened since then, I purchased an investment property, married my wife, had an amazing honeymoon and now have a son... the last 3 all within 12 months.
+A few years later I returned to Sydney, no money, no savings, no job... back to square one.
+
+After working my side hustle for a few years, my partner and I saved up enough money to purchase a unit in Western Sydney.
+
+A straight forward investment property, purchased just prior to the peak of the property boom in Australia. Luckily for us the property came with a long term tenant who stayed on for several years.
+
+Not long after we purchased our property, I was in Dymmocks and had come across a little book called "The Barefoot Investor".
+
+This book really spoke to my partner and I, and we [learned a lot]({% post_url 2019-10-01-learnings-from-the-barefoot-investor %}). After getting caught up in some (manageable) credit card debt, and pumping a considerable amount of money into our investment property, we started to lose control of our finances. The 9 simple steps in this book were easy to follow and extremely effective.
+
+In a few short months we paid off all of our credit card debt, and saved huge amounts of money renegotiating contracts and insurances.
+
+## A few years on...
+
+Now a few things have happened since, I married my partner, had an amazing honeymoon, and now have a son... all within 12 months.
 
 In the weeks after my son was born I had some time to look at our finances, work out how much we are spending, and what the next 5 years will look like... where do we want to live, what school will we send our son to? All questions and no answers...
 
-After this I decided to invest in [The Barefoot Blueprint](#), as I was interested in shares again.
+After following the barefoot steps and dominoed our debts I decided to invest in The Barefoot Blueprint, as I wanted to start making our money work for us and set some long term goals.
 
 This is where I delve deep into dividends, compound interest and ultimately financial independence through a passive income stream.
 
