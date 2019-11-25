@@ -1,6 +1,7 @@
 repository: bak3s/bak3s.github.io
 url: https://catchingfire.com.au
 title: Catching Fire
+description: Catching Fire is an Australian based journal about reaching financial independance.
 plugins:
   - jekyll-pwa-plugin
   - github-pages
