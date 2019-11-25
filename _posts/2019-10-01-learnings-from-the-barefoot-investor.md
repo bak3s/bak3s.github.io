@@ -46,3 +46,5 @@ The first thing Barefoot suggests is to “domino your debts”. And that’s wh
 ### Death and taxes
 
 The next part was to kick off some life admin, like consolidate your super in a low management fee fund, up your super contributions, and set up your insurances.
+
+:v:
