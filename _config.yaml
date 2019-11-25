@@ -9,6 +9,7 @@ plugins:
   - jemoji
   - jekyll-last-modified-at
   - jekyll-money
+  - jekyll-sitemap
 permalink: /:categories/:title/
 manifest_name: Catching Fire
 manifest_short_name: Catching Fire

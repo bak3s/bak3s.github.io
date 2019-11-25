@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-last-modified-at"
   gem "jekyll-money"
+  gem "jekyll-sitemap"
 end
