@@ -1,7 +1,7 @@
                         importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
             workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
-            self.__precacheManifest = [{"url":"/index.html","revision":"415266daeb34f705915996c98eb46ed0"},{"url":"/fire/catching-fire-my-journey-to-finanical-independence/","revision":"ed5093fba783d4e5eaf5217943b70b3d"},{"url":"/investing/books/learnings-from-the-barefoot-investor/","revision":"8d4ac3752af88dba1c9166e50b41e3c1"}];
+            self.__precacheManifest = [{"url":"/index.html","revision":"25521308740722aa0450a87af0784e98"},{"url":"/fire/fire-financial-independence-retire-early/","revision":"b14468eaa738b0de6bfffb75715ad341"}];
             // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: 'catching-fire',

@@ -1,0 +1,49 @@
+---
+layout: post
+title: Get started with financial independence
+author: dan
+categories: [fire]
+---
+
+Learn the steps to become financially independent and retire early.
+
+## Step 1 - Set your RE goal
+
+Since the inception of FIRE from Mr Money Moustache, and his post <cite>[The shockingly simple math behind early retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)</cite>, there has been a widely accepted "4% rule" for calculating your RE goal.
+
+### The 4% rule
+
+The 4% rule is known as the "safe withdrawal rate", originating from <cite>Determining withdrawal rates using historial data</cite> by William P. Bengen.
+
+> Assuming a minimum requirement of 30 years of portfolio longevity, a first-year withdrawal of 4 percent, followed by inflation-adjusted withdrawals in subsequent years, should be safe.
+> <cite>William P. Bengen</cite>
+
+This takes into consideration inflation etc, so the dollar you withdraw today is worth the same as the dollar you have withdrawn previously.
+
+### Calculate your early retirement savings rate
+
+Previously it was an arduous task to calculate this with spreadsheets and calculations and projections, but luckily its 2020 and there is an app for that. Head over to [Networthify](https://networthify.com/calculator/earlyretirement) and calculate your savings rate goal.
+
+Keep in mind you current lifestyle as a basis of calculation, you can trim unecessary spend later to bring that retirement date forward.
+
+Current projections have you retiring at retirement age? Head on to Step 2.
+
+## Step 2 - Take control of your finances
+
+### Make some cuts
+
+It could be something as simple as cutting your coffee at work (and replacing with a coffee at home), or find a place with cheaper coffees (hot tip, hit up a 7eleven for a [\$1 coffee](https://www.7eleven.com.au/coffee)!).
+
+Now cutting out coffee's doesn't seem like much, but really its about breaking bad habits, and/or replacing them with new - better - habits.
+
+Really take a look at what you waste money on. Do you throw away lots of groceries because its easier to eat out? Do you eat lunch out at work? Do you pay for a gym membership you rarely use?
+
+Typically these are the same issues we all have (including me!), and habits are hard to break - I recommend reading [Atomic Habits](https://www.booktopia.com.au/atomic-habits-james-clear/ebook/9781473537804.html) or checkout some great YouTuber's like [Thomas Frank](https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ) or [Matt D'Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA)
+
+### Dominoe your debt
+
+### Cut up your credit card
+
+### Find savings
+
+## Step 3 (Optional) - Make more money
