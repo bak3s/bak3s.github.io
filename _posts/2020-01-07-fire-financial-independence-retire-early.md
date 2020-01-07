@@ -36,7 +36,7 @@ It could be something as simple as cutting your coffee at work (and replacing wi
 
 Now cutting out coffee's doesn't seem like much, but really its about breaking bad habits, and/or replacing them with new - better - habits.
 
-Really take a look at what you waste money on. Do you throw away lots of groceries because its easier to eat out? Do you eat lunch out at work? Do you pay for a gym membership you rarely use?
+Really take a look at what you waste money on. Do you throw away lots of groceries because its easier to eat out? Do you take lunch to work or eat out? Do you pay for a gym membership you rarely use?
 
 Typically these are the same issues we all have (including me!), and habits are hard to break - I recommend reading [Atomic Habits](https://www.booktopia.com.au/atomic-habits-james-clear/ebook/9781473537804.html) or checkout some great YouTuber's like [Thomas Frank](https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ) or [Matt D'Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA)
 
