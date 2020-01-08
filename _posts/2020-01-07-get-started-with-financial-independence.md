@@ -46,8 +46,6 @@ Typically these are the same issues we all have (including me!), and habits are 
 
 ### Find savings
 
-> Renegotiate or find better deals for you bills/loans
-
 Renegotiating your bills may lead to some extra savings, for example moving your electricity and gas bill can often save a significant amount of money. I recommend using the Australian Government's [Energy Made Easy](https://www.energymadeeasy.gov.au/) tool, I myself saved a couple of hundred a year.
 
 #### Phone and internet
