@@ -46,4 +46,40 @@ Typically these are the same issues we all have (including me!), and habits are 
 
 ### Find savings
 
+> Renegotiate or find better deals for you bills/loans
+
+Renegotiating your bills may lead to some extra savings, for example moving your electricity and gas bill can often save a significant amount of money. I recommend using the Australian Government's [Energy Made Easy](https://www.energymadeeasy.gov.au/) tool, I myself saved a couple of hundred a year.
+
+#### Phone and internet
+
+Try call your current provider and ask for a loyalty discount, or check your current usage/plan against the current in market. Also ask if you can receive any "new customer" deals.
+
+#### Car insurance / green slip
+
+Shop around and compare insurance and green slip premiums. Some other ideas to enable some savings include:
+
+- Think about making some room in your garage to park your car (if it isn't already in there!)
+- Upping the minimum age of drivers
+- Put your excess up higher.
+
+#### Home and contents, and health insurances
+
+Shop and compare insurances, and find the best deal. For health insurance, the Barefoot and I recommend [Health Partners](https://www.healthpartners.com.au/).
+
+For health insurance, luckily the recent [private health insurance reforms](https://www.health.gov.au/health-topics/private-health-insurance/private-health-insurance-reforms) make it easy to compare. Make sure to ask your provider how much of the "extras" you actually use, and if its worth it!
+
+#### Home loan
+
+It took some time to find a new home loan for my family, as APRA's lending changes made it a little more difficult to move. It doesnt make sense that you "can't afford" the new loan even though you may save a couple of hundred dollars a month?! Luckily it has since relaxed the lending rules making easier to move home loans. I recommend [uno Home Loans](https://unohomeloans.com.au/), who found a great deal for me.
+
+#### Personal loan
+
+As per the others - shop and compare, call your current lender and see what savings you could make.
+
+If you have multiple loans, it may also be a good idea to consolidate your debt into a single credit card/personal loan with 0% transfer and 0% interest for 12 month deals, which may open some savings due to accruing interest.
+
 ## Step 3 (Optional) - Make more money
+
+Two-words. [Side Hustle](https://www.google.com/search?q=side+hustle).
+
+## Step 4 - Educate yourself
