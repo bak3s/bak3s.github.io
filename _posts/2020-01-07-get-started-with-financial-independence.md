@@ -81,3 +81,35 @@ If you have multiple loans, it may also be a good idea to consolidate your debt 
 Two-words. [Side Hustle](https://www.google.com/search?q=side+hustle).
 
 ## Step 4 - Educate yourself
+
+The single best investment you can make is in yourself. Here are a few great resources that can help you acheive financial independence.
+
+### Books
+
+#### The Barefoot Investor
+
+> The only money guide you'll ever need
+
+There's a reason Scott Pape's [The Barefoot Investor](https://www.booktopia.com.au/the-barefoot-investor-2019-update-scott-pape/book/9780730324218.html) has been a best-selling chart topper for the last couple of years, and you may notice a lot of the teachings in this book are referenced in this blog. Buy it, consume it, live it.
+
+#### Motivated Money
+
+> Sound Financial Advice for the Post-GFC World
+
+Peter Thornhills self-published book [Motivated Money](https://motivatedmoney.com.au/buy-the-book/) is a great book for those getting started in investing, helping you make informed investment decisions.
+
+#### One Up On Wall Street
+
+> How to use what you already know to make money in the market
+
+[One Up On Wall Street](https://www.booktopia.com.au/one-up-on-wall-street-peter-lynch/book/9780743200400.html) by American mutual-fund manager Peter Lynch is a great book that every investor should own. Lynch details what made Fidelity Magellan Fund one of the most successful mutual-funds of all time.
+
+### YouTube
+
+- [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ) (US)
+- [Solving The Money Problem](https://www.youtube.com/channel/UCagiBBx1prefrlsDzDxuA9A) (For those TESLA bulls)
+
+### Podcasts
+
+- [Equity Mates](https://equitymates.com/)
+- [Aussie Firebug Podcast](https://www.aussiefirebug.com/podcast/)
