@@ -15,9 +15,8 @@ layout: default
       {% endfor %}
     </div>
   </header>
-  <div class="table-of-contents">
-    {% toc %}
-  </div>
+  <blockquote>{{ page.description }}</blockquote>
+  {% toc %}
   <div class="post-content">
     {{ content }}
   </div>

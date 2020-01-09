@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Get started with financial independence
+description: Learn the steps to become financially independent and retire early.
 author: dan
 categories: [fire]
 toc: true
 ---
-
-Learn the steps to become financially independent and retire early.
 
 ## Step 1 - Set your RE goal
 
