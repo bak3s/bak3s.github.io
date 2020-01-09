@@ -16,4 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-last-modified-at"
   gem "jekyll-money"
   gem "jekyll-sitemap"
+  gem "jekyll-toc"
 end

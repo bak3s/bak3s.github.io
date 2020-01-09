@@ -1,5 +1,5 @@
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('/assets/js/service-worker.js?v=1578376241').then(function(reg) {
+            navigator.serviceWorker.register('/assets/js/service-worker.js?v=1578546811').then(function(reg) {
                 reg.onupdatefound = function() {
                     var installingWorker = reg.installing;
                     installingWorker.onstatechange = function() {
