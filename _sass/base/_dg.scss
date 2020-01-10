@@ -90,7 +90,7 @@ article {
 }
 
 @media (max-width: #{$mobile}) {
-  img {
+  .post-content img:not(.emoji) {
     width: 100%;
     max-width: 100%;
   }

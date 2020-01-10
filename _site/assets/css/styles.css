@@ -274,4 +274,4 @@ article h1 { margin-top: 5rem; margin-bottom: 0.5rem; }
 
 .breakout { background-color: #fff3cd; position: relative; padding: 0.75rem 1.25rem; margin-bottom: 1rem; border: 1px solid #ffeeba; border-radius: 0.25rem; display: block; }
 
-@media (max-width: 600px) { img { width: 100%; max-width: 100%; } }
+@media (max-width: 600px) { .post-content img:not(.emoji) { width: 100%; max-width: 100%; } }
