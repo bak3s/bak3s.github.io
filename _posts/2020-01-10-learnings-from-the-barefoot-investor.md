@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learnings from "The Barefoot Investor"
+description: Key take-aways from "The only money guide you'll ever need"
 author: dan
 categories: [investing, books]
 ---
@@ -33,7 +34,9 @@ Back when I was 20 and earning 1/3, I didn’t have a credit card, I only spent 
 
 These are the reasons that my increase in income didn’t result in an increase it savings, it became an increase in debt.
 
-The first thing Barefoot suggests is to “domino your debts”, and that’s what we did! We paid the minimum amount (probably would have been worth transferring the credit to another card with a 0% interest transfer rate), and waited for our tax return (I wasn’t claiming the 18k tax-free threshold at the time, so I knew I had some money coming in). We paid and closed all 3 credit cards once our tax return cleared.
+#### Debt consolidation
+
+The Step 3 in the Barefoot steps tells you to “domino your debts”, and that’s what we did! We paid the minimum amount (probably would have been worth transferring the credit to another card with a 0% interest transfer rate), and waited for our tax return (I wasn’t claiming the 18k tax-free threshold at the time, so I knew I had some money coming in). We paid and closed all 3 credit cards once our tax return cleared.
 
 ### Death and taxes
 
