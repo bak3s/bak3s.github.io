@@ -86,4 +86,12 @@ article {
   margin-bottom: 1rem;
   border: 1px solid #ffeeba;
   border-radius: 0.25rem;
+  display: block;
+}
+
+@media (max-width: #{$mobile}) {
+  img {
+    width: 100%;
+    max-width: 100%;
+  }
 }
