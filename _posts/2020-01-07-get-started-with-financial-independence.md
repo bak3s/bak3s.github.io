@@ -131,3 +131,5 @@ Start with Equity Mates podcast [Get Started in Investing](https://podcasts.appl
 Check out my list of [Australian trading platforms]({% post_url 2020-01-10-australian-trading-platforms %})
 
 <span class="breakout">Only have a little spare change to invest? Check out my post on [Australian micro/nano investing apps]({% post_url 2020-01-10-australian-micro-investment-apps %})</span>
+
+:v:

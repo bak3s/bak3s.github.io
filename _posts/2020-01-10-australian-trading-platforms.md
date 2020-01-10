@@ -14,3 +14,5 @@ categories: [investing, trading]
 ## Portfolio Management
 
 - [ShareSight](https://www.sharesight.com/au/)
+
+:v:

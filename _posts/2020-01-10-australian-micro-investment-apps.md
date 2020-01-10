@@ -13,4 +13,6 @@ categories: [investing, micro-investment]
 - [CommSec Pocket](https://www.commsec.com.au/products/pocket.html)
 - [Raiz](https://raizinvest.com.au/)
 
+:v:
+
 <small>\* Support this blog by using referral code S8OELYZP7I, and when you invest atleast $5 both you and I get $5!</small>
