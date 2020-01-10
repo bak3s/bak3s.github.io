@@ -16,9 +16,8 @@ layout: default
     </div>
   </header>
   <blockquote>{{ page.description }}</blockquote>
-  {% toc %}
   <div class="post-content">
-    {{ content }}
+    {{ content | toc }}
   </div>
   <hr />
   <div class="post-modified">
