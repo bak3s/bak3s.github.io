@@ -6,7 +6,7 @@ description: Learn about the FIRE movement, and reach financial independance so 
 
 <h1>Welcome to Catching Fire</h1>
 <h2>Latest posts</h2>
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts reversed limit: 5 %}
 <div class="article">
   <h3>
     <a href="{{ post.url }}">{{ post.title }}</a>

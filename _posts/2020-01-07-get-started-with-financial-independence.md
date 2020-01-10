@@ -80,7 +80,7 @@ If you have multiple loans, it may also be a good idea to consolidate your debt 
 
 Two-words. [Side Hustle](https://www.google.com/search?q=side+hustle).
 
-## Step 4 - Educate yourself
+## Step 4 - Invest... in yourself
 
 The single best investment you can make is in yourself. Here are a few great resources that can help you acheive financial independence.
 
@@ -115,3 +115,19 @@ Peter Thornhills self-published book [Motivated Money](https://motivatedmoney.co
 
 - [Equity Mates](https://equitymates.com/)
 - [Aussie Firebug Podcast](https://www.aussiefirebug.com/podcast/)
+
+## Step 5 - Investing
+
+> Stocks and bonds, stocks and bonds!
+
+![Stonks](https://media.giphy.com/media/KEeyysnlLdJ4afgEhk/source.gif)
+
+#### Start your investment journey here
+
+Start with Equity Mates podcast [Get Started in Investing](https://podcasts.apple.com/au/podcast/get-started-investing/id1484760064) to get an understanding of all the jargan that is used to bamboozle you into submission. Investing isn't hard, its actually a little too easy, it's big business that want it to sound complicated.
+
+#### Pick a broker
+
+Check out my list of [Australian trading platforms]({% post_url 2020-01-10-australian-trading-platforms %})
+
+<span class="breakout">Only have a little spare change to invest? Check out my post on [Australian micro/nano investing apps]({% post_url 2020-01-10-australian-micro-investment-apps %})</span>

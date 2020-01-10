@@ -9,6 +9,8 @@ categories: [investing, micro-investment]
 
 ## Australian micro-investment apps
 
-- [Spaceship Voyager](https://www.spaceshipinvest.com.au/)
+- [Spaceship Voyager](http://spaceshipinvest.com.au/refer) (Use referral code S8OELYZP7I for \$5\*).
 - [CommSec Pocket](https://www.commsec.com.au/products/pocket.html)
 - [Raiz](https://raizinvest.com.au/)
+
+<small>\* Support this blog by using referral code S8OELYZP7I, and when you invest atleast $5 both you and I get $5!</small>
