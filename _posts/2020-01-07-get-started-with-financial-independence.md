@@ -92,6 +92,8 @@ The single best investment you can make is in yourself. Here are a few great res
 
 There's a reason Scott Pape's [The Barefoot Investor](https://www.booktopia.com.au/the-barefoot-investor-2019-update-scott-pape/book/9780730324218.html) has been a best-selling chart topper for the last couple of years, and you may notice a lot of the teachings in this book are referenced in this blog. Buy it, consume it, live it.
 
+<span class="breakout">Read my [learnings from the Barefoot Investor]({% post_url 2020-01-10-learnings-from-the-barefoot-investor %})</span>
+
 #### Motivated Money
 
 > Sound Financial Advice for the Post-GFC World
