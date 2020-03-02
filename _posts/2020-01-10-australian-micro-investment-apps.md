@@ -11,7 +11,7 @@ Micro-investing is handy when you don't have enough capital to invest in stocks,
 
 Typically when you are investing with micro transactions, you are buying an unlisted fund. Unlisted funds are not traded on the ASX, instead you purchase a "unit", and the unit is tracked against the listed companies, ETF or fund.
 
-Micro-investing with apps in Australia is easy, and the minimum amount to invest to start is low, and apps like Raiz allow you to round-up your credit or debit card purchases and automatically invest. However, it is worth noting that after a certain threshold there may be a management fee.
+Micro-investing with apps in Australia is easy, and the minimum amount to invest to start is low. Apps like Raiz allow you to round-up your credit or debit card purchases and automatically invest. However, it is worth noting that after a certain threshold there may be a management fee.
 
 ## List of micro-investing apps in Australia
 
