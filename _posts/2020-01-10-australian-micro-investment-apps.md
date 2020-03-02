@@ -13,7 +13,7 @@ Typically when you are investing in micro transactions, you are buying an unlist
 
 Micro-investing with apps in Australia is easy, and the minimum amount to invest to start is low. However, it is worth noting that after a certain threshold there will be a management fee.
 
-## Australian micro-investment apps
+## List of micro-investing apps in Australia
 
 - [Spaceship Voyager](http://spaceshipinvest.com.au/)
 - [CommSec Pocket](https://www.commsec.com.au/products/pocket.html)
