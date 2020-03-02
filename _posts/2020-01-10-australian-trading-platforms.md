@@ -12,8 +12,9 @@ categories: [investing, trading]
 - [SelfWealth](https://www.selfwealth.com.au/)
 - [CMC Markets](https://www.cmcmarkets.com/en-au/)
 - [Stake](https://stake.com.au/)
+- [Interactive Brokers](https://www.interactivebrokers.com.au)
 
-## Portfolio Management
+## Portfolio Management Lo
 
 - [ShareSight](https://www.sharesight.com/au/)
 
