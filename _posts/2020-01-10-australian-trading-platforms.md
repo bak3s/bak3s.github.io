@@ -10,6 +10,8 @@ categories: [investing, trading]
 - [CommSec](https://www.commsec.com.au/) (Comm Bank)
 - [DirectShares](https://www.stgeorge.com.au/personal/investments/directshares-online-broking) (St. George Bank)
 - [SelfWealth](https://www.selfwealth.com.au/)
+- [CMC Markets](https://www.cmcmarkets.com/en-au/)
+- [Stake](https://stake.com.au/)
 
 ## Portfolio Management
 
