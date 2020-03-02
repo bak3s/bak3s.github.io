@@ -7,12 +7,13 @@ categories: [investing, micro-investment]
 
 ## What is micro-investing?
 
+Micro-investing is handy when you don't have enough capital to invest in stocks, but want to own shares in a company or group of companies. Typically when you are investing in micro transactions, you are buying an unlisted ETF.
+
 ## Australian micro-investment apps
 
-- [Spaceship Voyager](http://spaceshipinvest.com.au/refer) (Use referral code S8OELYZP7I for \$5\*).
+- [Spaceship Voyager](http://spaceshipinvest.com.au/)
 - [CommSec Pocket](https://www.commsec.com.au/products/pocket.html)
 - [Raiz](https://raizinvest.com.au/)
+- [Array](https://arrayapp.co)
 
 :v:
-
-<small>\* Support this blog by using referral code S8OELYZP7I, and when you invest atleast $5 both you and I get $5!</small>
