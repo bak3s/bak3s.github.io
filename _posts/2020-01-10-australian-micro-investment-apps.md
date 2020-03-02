@@ -22,6 +22,6 @@ Micro-investing with apps in Australia is easy, and the minimum amount to invest
 
 ## Fractional shares
 
-If you don't want to be locked into these micro investing apps, it may be worth considering buying Fractional Trading, where you can enter a dollar amount and the broker will purchase fractions to total out the transaction. [Trading platforms]({% post_url 2020-01-10-australian-trading-platforms }) like [Interactive Brokers](https://www.interactivebrokers.com.au/) let you purchase [Fractional Shares](https://www.interactivebrokers.com/en/index.php?f=45718).
+If you don't want to be locked into these micro investing apps, it may be worth considering buying Fractional Trading, where you can enter a dollar amount and the broker will purchase fractions to total out the transaction. [Trading platforms]({% post_url 2020-01-10-australian-trading-platforms %}) like [Interactive Brokers](https://www.interactivebrokers.com.au/) let you purchase [Fractional Shares](https://www.interactivebrokers.com/en/index.php?f=45718).
 
 :v:
