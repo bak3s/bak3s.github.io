@@ -19,6 +19,7 @@ Micro-investing with apps in Australia is easy, and the minimum amount to invest
 - [CommSec Pocket](https://www.commsec.com.au/products/pocket.html)
 - [Raiz](https://raizinvest.com.au/)
 - [Array](https://arrayapp.co)
+- [FirstStep(https://getfirststep.com/)
 
 ## Fractional shares
 
