@@ -20,4 +20,8 @@ Micro-investing with apps in Australia is easy, and the minimum amount to invest
 - [Raiz](https://raizinvest.com.au/)
 - [Array](https://arrayapp.co)
 
+## Fractional shares
+
+If being locked into these micro investing apps, it may be worth considering buying Fractional Trading, where you can enter a dollar amount and the broker will purchase fractions to total out the transaction. Trading platforms like [Interactive Brokers](https://www.interactivebrokers.com.au/) let you purchase [Fractional Shares](https://www.interactivebrokers.com/en/index.php?f=45718).
+
 :v:
