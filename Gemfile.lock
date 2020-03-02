@@ -117,7 +117,6 @@ GEM
       jekyll (~> 3.0)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
-    jekyll-giphy (1.0.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-github-metadata (2.12.1)
@@ -220,7 +219,7 @@ GEM
     money (6.13.4)
       i18n (>= 0.6.4, <= 2)
     multipart-post (2.1.1)
-    nokogiri (1.10.5)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -260,7 +259,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
-  jekyll-giphy
   jekyll-last-modified-at
   jekyll-money
   jekyll-pwa-plugin
