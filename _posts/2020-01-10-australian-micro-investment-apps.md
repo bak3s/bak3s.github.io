@@ -9,7 +9,7 @@ categories: [investing, micro-investment]
 
 Micro-investing is handy when you don't have enough capital to invest in stocks, but want to own shares in a company or group of companies.
 
-Typically when you are investing in micro transactions, you are buying an unlisted fund. Unlisted funds are not traded on the ASX. Instead you purchase a "unit", and the unit is tracked against the listed companies, ETF of fund.
+Typically when you are investing with micro transactions, you are buying an unlisted fund. Unlisted funds are not traded on the ASX. Instead you purchase a "unit", and the unit is tracked against the listed companies, ETF of fund.
 
 Micro-investing with apps in Australia is easy, and the minimum amount to invest to start is low. However, it is worth noting that after a certain threshold there will be a management fee.
 
