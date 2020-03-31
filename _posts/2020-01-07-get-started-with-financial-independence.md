@@ -104,7 +104,7 @@ Peter Thornhills self-published book [Motivated Money](https://motivatedmoney.co
 
 > How to use what you already know to make money in the market
 
-[One Up On Wall Street](https://www.booktopia.com.au/one-up-on-wall-street-peter-lynch/book/9780743200400.html) by American mutual-fund manager Peter Lynch is a great book that every investor should own. Lynch details what made Fidelity Magellan Fund one of the most successful mutual-funds during his time.
+[One Up On Wall Street](https://www.booktopia.com.au/one-up-on-wall-street-peter-lynch/book/9780743200400.html) by American mutual-fund manager Peter Lynch is a great book that every investor should own. Lynch tells you how you can use the information you already have to make solid investing decision.
 
 ### YouTube
 
